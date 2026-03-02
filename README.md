@@ -24,9 +24,9 @@ The full length dataset only includes wav and lab files, whereas the segmented d
 The ds contains f0 and note slur data.
 
 ## Additional Info:
-The dataset includes the following global phonemes: [`exh`,`vf`,`cl`,`mlem`,`hx`], `exh`` for exhales, `vf` for vocal fry, `cl` for stops, `mlem` for mouth clicks, `hx` for unvoiced sounds (ie. the `h` sound in "white")
+The dataset includes the following global phonemes: [`exh`,`axh`,`vf`,`cl`,`mlem`,`hx`], `exh` and `axh` for unvoiced and voiced exhales, `vf` for vocal fry, `cl` for stops, `mlem` for mouth clicks, `hx` for unvoiced sounds (ie. the `h` sound in "white")
 
-As of today (2026/02/25), this dataset is only a partial beta version, and will have more data later on.
+As of today (2026/03/03), the dataset's Mandarin Chinese section is complete
 
 ## Song List:
 See [song list](/song_list)
